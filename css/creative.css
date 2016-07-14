@@ -3,6 +3,8 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+/* ------------GENERAL------------- */
+
 html,
 body {
   height: 100%;
@@ -61,6 +63,10 @@ aside {
 .no-padding {
   padding: 0;
 }
+
+
+/* ------------NAVBAR------------- */
+
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
@@ -146,6 +152,10 @@ aside {
     color: #F05F40;
   }
 }
+
+
+/* -------------ACCUEIL------------- */
+
 header {
   position: relative;
   width: 100%;
@@ -208,6 +218,10 @@ header .header-content .header-content-inner p {
     margin-right: auto;
   }
 }
+
+
+/* ------------SERVICES/ABOUT------------- */
+
 .section-heading {
   margin-top: 0;
 }
@@ -223,6 +237,10 @@ header .header-content .header-content-inner p {
 .service-box p {
   margin-bottom: 0;
 }
+
+
+/* ------------PORTFOLIO------------- */
+
 .portfolio-box {
   position: relative;
   display: block;
