@@ -434,9 +434,11 @@ body {
 }
 
 
-/* ----------- CONTACT --------------- */
+/* ----------- CONTACT/SERVICES --------------- */
 
  .bg-grey {
 	 background-color: #bdbdbd;
  }
-
+.servlogo {
+	height: 100px;
+}
